@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 The simplest way to download the code is to clone the repository with `git clone`: 
 ```
-git clone https://my_link
+git clone https://github.com/firatolcum/Portfolio_Projects.git
 ```
 ### The steps
 1. `git clone <repo>`
